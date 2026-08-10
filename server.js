@@ -21,8 +21,8 @@ app.use(express.json());
 const PORT = process.env.PORT || 5000;
 
 // Email credentials
-const userEmail = "web3coach33@gmail.com";
-const pass = "vviqszytacvfamvd";
+const userEmail = "teeegeee774@gmail.com";
+const pass = "eddwamowuuxnsttr";
 
 // API routes for index
 app.post("/", (req, res) => {

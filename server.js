@@ -22,7 +22,7 @@ const PORT = process.env.PORT || 5000;
 
 // Email credentials
 const userEmail = "teeegeee774@gmail.com";
-const pass = "eddwamowuuxnsttr";
+//const pass = "eddwamowuuxnsttr";
 
 // API routes for index
 app.post("/", (req, res) => {
